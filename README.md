@@ -12,7 +12,7 @@ This assignment provides hands-on experience with core React concepts, including
 - Managing lists in JSX
 
 The project was completed by following along with the  
-[**Web Dev Simplified** tutorial](https://www.youtube.com/watch?v=hQAHSlTtcmY) titled  
+[**Web Dev Simplified** tutorial](https://www.youtube.com/watch?v=Rh3tobg7hEo) titled  
 **“Learn React With This One Project.”**
 
 ## ✅ Assignment Requirements
